@@ -31,7 +31,7 @@
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoalmeida&show_icons=true&theme=dracula&hide=prs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoalmeida&layout=compact&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoalmeida&layout=compact&theme=dracula&langs_count=4&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 <br><br>
 

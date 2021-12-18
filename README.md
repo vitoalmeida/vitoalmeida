@@ -1,13 +1,12 @@
 ![alt text](./assets/header.png "Title")
-<div align="center"><h2>Vitor Machado :raising_hand_man: | FrontEnd Developer :computer: | Brazil :brazil:</h2>
-    <span>
+<div align="center"><h2>Vitor Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  | FrontEnd Developer :computer: | Brazil :round_pushpin:</h2>
+    <h1>
         <a href="https://www.linkedin.com/in/vitormachado-work/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg"alt="linkedin" height="34px">
         </a>
-    </span>
+    </h1>
 </div>
 
-<hr>
 
 ### I'm Currently
 - 🔭 Working on TCU (Tribunal de Contas da União)

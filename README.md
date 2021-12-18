@@ -1,5 +1,5 @@
 ![alt text](./assets/header.png "Title")
-<div align="center"><h2>Vitor Machado :raising_hand_man: | FrontEnd Developer :computer: | Brazil :Brazil:</h2>
+<div align="center"><h2>Vitor Machado :raising_hand_man: | FrontEnd Developer :computer: | brazil :Brazil:</h2>
     <span>
         <a href="https://www.linkedin.com/in/vitormachado-work/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg"alt="linkedin" height="34px">

@@ -11,7 +11,6 @@
 - 🔭 Working on TCU (Tribunal de Contas da União)
 - 📚 Learning about Data structure, JavaScript and ReactJS
 - 👷🏽‍♂️ Developing my project "MyRoad"
-<br><br>
 #
 
 ### Languages, Frameworks and Tools
@@ -24,7 +23,6 @@
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="sql" height ="42px"/> </a>
 <a href="" target="_blank"> <img align="left" alt="SQL" height ="38px"   src="./assets/logos/sql.png"> </a>
 <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"> <img align="left" alt="PL_SQL" height ="42px"  src="https://www.oracle.com/a/ocom/img/pl-sql.svg"> </a>
-<br><br>
 #
 
 ### Github Stats

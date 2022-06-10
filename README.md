@@ -9,7 +9,7 @@
 
 ### I'm Currently
 - 🔭 Working on 0xCarbon
-- 📚 Learning about Data structure, JavaScript and ReactJS
+- 📚 Learning about Data structure, TypeScript and NextJS
 - 👷🏽‍♂️ Developing my project "MyRoad"
 #
 

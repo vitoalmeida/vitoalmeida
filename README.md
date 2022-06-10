@@ -1,5 +1,5 @@
 ![alt text](./assets/header.png "Title")
-<div align="center"><h2>Vitor Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  | FrontEnd Engineer :computer: | Brazil :round_pushpin:</h2></div>
+<div align="center"><h2>Vitor Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  | FrontEnd Engineer :computer: | Brazil :round_pushpin:</h2></div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/vitormachado-work/" target="_blank">

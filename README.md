@@ -1,5 +1,5 @@
 ![alt text](./assets/header.png "Title")
-<div align="center"><h2>Vitor Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  | Sfotware Engineer :computer: | Brazil :round_pushpin:</h2></div>
+<div align="center"><h2>Vitor Almeida<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  | Fullstack Developer :computer: | Brazil :round_pushpin:</h2></div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/vitormachado-work/" target="_blank">
@@ -23,6 +23,7 @@
 <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"> <img align="left" alt="PL_SQL" height ="42px"  src="https://www.oracle.com/a/ocom/img/pl-sql.svg"> </a>
 #
 
+<!--
 ### Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
     
@@ -30,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoalmeida&layout=compact&theme=dracula&langs_count=4&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 <br><br>
-
+-->
 
 <!--
 <hr>
